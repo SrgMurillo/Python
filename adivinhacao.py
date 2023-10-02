@@ -16,4 +16,4 @@ while(passe==1):
             print("Chutou um número maior!")
         else:
             print("Chutou um número menor!")
-    passe = int(input("Informe 0 para deixar o programa e 1 para tentar novamente!\n"))
+    passe = int(input("Informe 0 para deixar o programa e 1 para tentar novamente! \n"))
